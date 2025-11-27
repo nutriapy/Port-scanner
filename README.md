@@ -10,6 +10,6 @@ Cómo usarlo
 
 Solo corre:
 
-'''python custom_port_scaner.py'''
+```python custom_port_scaner.py```
 
 Pones la IP y listo.
